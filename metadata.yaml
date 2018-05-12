@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32698'
     url: http://www.gutenberg.org/2009/agents/32698
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45283#Systematic-Theology--Volume-3-of-3-
 gutenberg_issued: '2014-03-31'
 gutenberg_type: Text
 identifiers:
